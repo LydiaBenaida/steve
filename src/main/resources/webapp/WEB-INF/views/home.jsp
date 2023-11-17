@@ -37,6 +37,10 @@
 		Profiles
 		<span class="base formatNumber"></span>
 	</a>
+	<a class="tileRow1" href="${ctxPath}/manager/pdls">
+		pdls
+		<span class="base formatNumber"></span>
+	</a>
 	<a class="tileRow1" href="${ctxPath}/manager/reservations">
 		Number of<br>Active Reservations
 		<span class="base formatNumber">${stats.numReservations}</span>
