@@ -33,6 +33,10 @@
 		Number of<br>Users
 		<span class="base formatNumber">${stats.numUsers}</span>
 	</a>
+	<a class="tileRow1" href="${ctxPath}/manager/CpProfiles">
+		Profiles
+		<span class="base formatNumber"></span>
+	</a>
 	<a class="tileRow1" href="${ctxPath}/manager/reservations">
 		Number of<br>Active Reservations
 		<span class="base formatNumber">${stats.numReservations}</span>
